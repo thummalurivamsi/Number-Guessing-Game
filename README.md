@@ -126,11 +126,17 @@ Too low! Try again.
 Would you like to see the scoreboard? (y/n): y
 
 ============= SCOREBOARD =============
+
 No. | Name | Level | Attempts
+
 ----+--------------+---------+---------
+
 1 | Anju   | Hard   | 6
+
 2 | Ramesh | Medium | Lost
+
 3 | Sita   | Easy   | 12
+
 
 ---
 
